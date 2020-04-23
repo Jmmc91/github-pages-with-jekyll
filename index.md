@@ -1,3 +1,13 @@
-# Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<body>
+
+<!-- Content will go here -->
+Bienvenidos a mi blog 
+
+</body>
+</html>
